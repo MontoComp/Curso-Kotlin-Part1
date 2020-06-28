@@ -23,7 +23,7 @@
                 android:text="REGISTER"
                 android:textAlignment="center"
                 android:textColor="#000386"
-                android:textSize="40dp" />
+                android:textSize="42dp" />
 
             <ImageView
                 android:id="@+id/imageView"
