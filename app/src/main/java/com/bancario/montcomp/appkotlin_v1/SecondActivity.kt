@@ -73,6 +73,11 @@ class SecondActivity : AppCompatActivity() {
             startActivity(intent1)
         }
 
+        btn_recycler.setOnClickListener {
+            val intent1 = Intent(this,FeedActivity::class.java)
+            startActivity(intent1)
+        }
+
 
     }
 

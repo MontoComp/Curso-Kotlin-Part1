@@ -10,4 +10,5 @@
     <string name="title_activity_third">ThirdActivity</string>
     <string name="title_activity_register">RegisterActivity</string>
     <string name="title_activity_editar">EditarActivity</string>
+    <string name="title_activity_recycle_view">RecycleViewActivity</string>
 </resources>

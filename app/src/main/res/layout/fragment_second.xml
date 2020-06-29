@@ -57,6 +57,13 @@
             android:layout_margin="20dp"
             android:textSize="25dp"
             android:text="Modificar" />
+        <Button
+            android:id="@+id/btn_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textSize="25dp"
+            android:text="RecyclerView" />
 
 
     </LinearLayout>

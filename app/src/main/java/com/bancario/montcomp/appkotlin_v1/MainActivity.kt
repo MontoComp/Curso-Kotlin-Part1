@@ -9,7 +9,6 @@ import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.CheckBox
 import android.widget.EditText
 import android.widget.Toast
 import com.bancario.montcomp.appkotlin_v1.mykeys.Companion.KEY_ADDRESS
